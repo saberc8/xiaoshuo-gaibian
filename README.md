@@ -223,3 +223,9 @@ uv run python scripts/check_mcp.py
 测试使用 `NOVEL_DATABASE_URL` 指向的 PostgreSQL，但每次创建独立、随机命名的 schema，并在结束时清理。不会读写生产 `public.records`。数据库角色须有创建 schema 的权限。
 
 `check_mcp.py` 以临时端口、文件目录和数据库 schema 启动真正的后端与 STDIO 客户端，覆盖普通改编及 **完成版 → 页面接口编辑重写条件 → 全稿诊断 → 重构方案 → 正文 → 九项检查 → 全书三方审查 → 不可变 EPUB / JSON**，并确认旧改名工具已移除。固定创作数据检验协议与约束，不代表对文学质量的评测。
+
+## 开源许可
+
+项目源代码与技术文档采用 [MIT License](LICENSE)，允许商业使用、修改和分发，使用时须保留版权声明与许可证。
+
+`examples/` 中的原著、译稿、改编正文及导出文件作为演示素材提供，不纳入上述代码许可证的授权范围；其来源、版本与许可信息以各目录说明及文件内附带许可为准。Project Gutenberg 原文保留其原有许可，相关记录见 [公版素材来源说明](examples/public-domain/README.md) 与 [《基督山伯爵》来源说明](examples/public-domain/monte-cristo/README.md)。
