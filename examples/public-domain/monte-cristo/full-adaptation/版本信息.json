@@ -1,0 +1,36 @@
+{
+  "project_id": "a80354a9f0b24c3aa970dbab634771b1",
+  "status": "completed",
+  "revision": 439,
+  "original_chapters": 117,
+  "source_analysis_blocks": 318,
+  "target_chapters": 36,
+  "body_characters": 26833,
+  "han_characters": 23425,
+  "epub_chapters": 36,
+  "reviews_passed": 36,
+  "all_reviews_current": true,
+  "source_sha256": "3f22a883c358df0435cfc6b40e69bf27229b36ce6a2285a9151183a0996973f8",
+  "exports": {
+    "epub": {
+      "path": "/Users/yusenlin/Avalon/freedom/2026/aimanju/xiaoshuo-gaibian/examples/public-domain/monte-cristo/full-adaptation/长夜归舟.epub",
+      "bytes": 64839,
+      "sha256": "985bdd2f0cc2a4bb1d1562bf56b402fc71e9cf263435923d8d476640f3cf68db"
+    },
+    "txt": {
+      "path": "/Users/yusenlin/Avalon/freedom/2026/aimanju/xiaoshuo-gaibian/examples/public-domain/monte-cristo/full-adaptation/长夜归舟.txt",
+      "bytes": 82657,
+      "sha256": "1e76ed068d8f6cbd787fabc204e8abf07e255b8bc8251620fb6ea9dc08f9a22a"
+    },
+    "md": {
+      "path": "/Users/yusenlin/Avalon/freedom/2026/aimanju/xiaoshuo-gaibian/examples/public-domain/monte-cristo/full-adaptation/长夜归舟.md",
+      "bytes": 82767,
+      "sha256": "ca340eb2e41ff811544764efe93a921f8027b86f34ae65c6f0ffd92be124ec19"
+    },
+    "json": {
+      "path": "/Users/yusenlin/Avalon/freedom/2026/aimanju/xiaoshuo-gaibian/examples/public-domain/monte-cristo/full-adaptation/长夜归舟.json",
+      "bytes": 722259,
+      "sha256": "7b5c35f3ea639081fb0081ee2c4157d62d4b2f51a6a573f629dd96e7e693fc00"
+    }
+  }
+}

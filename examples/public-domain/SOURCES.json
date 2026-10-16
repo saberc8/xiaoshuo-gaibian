@@ -1,0 +1,11 @@
+{
+  "title": "The Monkey’s Paw / 猴爪",
+  "author": "W. W. Jacobs",
+  "source_page": "https://www.gutenberg.org/ebooks/12122",
+  "download_url": "https://www.gutenberg.org/cache/epub/12122/pg12122.txt",
+  "retrieved_on": "2026-10-15",
+  "original_sha256": "22f3431a7db6d9e210ffb446044739513475cb93992421d1b0d107f094d7408d",
+  "prepared_sha256": "9e25b0071ef07249e9c4cf69366bc54b803c0a4c930980787abafb8d8787c855",
+  "preprocessing": "Complete three story sections; removed source front matter, illustration placeholders and trailing license from the reading copy. Full original download and license are kept separately. Changed Roman headings to Chapter I/II/III and CRLF to LF. Prose unchanged.",
+  "rights_note": "Source page lists this edition as public domain in the USA. Concrete versions and territories should be recorded separately."
+}

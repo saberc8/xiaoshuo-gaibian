@@ -1,0 +1,27 @@
+{
+  "translation": {
+    "project_id": "49a3e8b6b7574904940327b9e54a511e",
+    "chapters": 1,
+    "paragraphs": 126,
+    "characters": 5593,
+    "han_characters": 4602,
+    "epub_chapters": 1,
+    "path": "examples/public-domain/monte-cristo/translation-pilot/基督山伯爵-第一章完整译稿.epub"
+  },
+  "rewrite": {
+    "project_id": "fb168a978d854ff8a3ab6382a0ec8a76",
+    "chapters": 1,
+    "paragraphs": 136,
+    "characters": 5962,
+    "han_characters": 4998,
+    "epub_chapters": 1,
+    "path": "examples/public-domain/monte-cristo/translation-pilot/长夜归舟-第一章未签的任命.epub"
+  },
+  "full_project": {
+    "id": "d3a662b5f66e43d9a76fdf1c279252f0",
+    "target_units": 117,
+    "drafted_units": 1,
+    "next_unit": "t002",
+    "status": "writing"
+  }
+}
